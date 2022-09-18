@@ -1,0 +1,86 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.custom-color
+{
+    color: #ff4838 !important;
+}
+
+.custom_bg
+{
+    background-color: #F2F2F2 !important;
+}
+
+.btn-outline-custom
+{
+    border-color: #ff4838 !important;
+    color: #ff4838 !important;
+}
+
+
+.btn-outline-custom:hover
+{
+    background-color: #ff493881;
+}
+
+.input-outline-custom
+{
+    border-color: #ff4838 !important;
+    color: white !important ; 
+}
+
+.input-outline-custom:hover
+{
+    background-color: #ff493815;
+}
+
+body 
+{
+    background-image: url('/assests/img/body-bg.jpg');
+    
+}
+
+.soc-icon:hover
+{
+    color: #ff4838 !important ;
+    background-color: #cfc5c5 !important;
+}
+
+.ron
+{
+    background-color: aqua !important;
+    color: black ;
+
+}
+
+.h-full
+{
+    height: 100vh;
+}
+
+.list-group-item
+{
+font-weight: bolder;
+border-color: #f1b0aa;
+box-shadow: 5px 5px 10px  gray;
+font-family: sans-serif ;
+font-weight: bolder ; 
+}
+
+.list-group-item:hover
+{
+    cursor: pointer !important;
+}
+
+.w-40
+{
+    width: 40% !important;
+}
+
+.f , body{
+border: 1px solid transparent;
+}
